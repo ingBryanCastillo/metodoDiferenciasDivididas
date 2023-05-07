@@ -11,7 +11,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author lipiri
+ * @author Alex
  */
 public class form extends javax.swing.JFrame {
 
