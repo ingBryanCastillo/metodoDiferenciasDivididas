@@ -7,7 +7,7 @@ package diferencias_divididas;
 
 /**
  *
- * @author lipiri
+ * @author Alex
  */
 public class Diferencias_divididas {
 
